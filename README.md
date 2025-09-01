@@ -1,4 +1,4 @@
-# 🚀 X (Twitter) OAuth 2.0 + SQLite — App de Exemplo
+# 🚀 X (Twitter) OAuth 2.0 + SQLite
 
 Este projeto demonstra como implementar autenticação **OAuth 2.0 com PKCE** utilizando a **API do X (Twitter)**, salvando informações de **usuários** e **tweets** em um banco de dados **SQLite**.
 Inclui fluxo de login, refresh de tokens, logout, sincronização de tweets e rotas de API para consulta.
